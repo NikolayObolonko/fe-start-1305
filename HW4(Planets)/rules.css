@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+section {
+    text-align: center;
+}
+.center-content{
+    text-align: center;
+}
+.left-content{
+    text-align: left;
+}
+.right-content{
+    text-align: right;
+}
+.underline-link {
+    color: blue;           /* Синий цвет текста */
+    text-decoration: underline; /* Подчеркивание текста */
+}
+
+.underline-link:hover {
+    color: darkblue;       /* Цвет текста при наведении курсора */
+}
